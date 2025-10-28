@@ -4,42 +4,27 @@
   <h1>👋 Hi, I'm <span style="color:#0A66C2;">Yonghak Hwang</span></h1>
   <p>💻 Full-Stack Developer | 📊 Fintech & AI System Explorer</p>
 
-  ---
-
   ## 🧠 Tech Stack
   <div align="center">
     <!-- 언어 -->
     <img src="https://skillicons.dev/icons?i=java,python,javascript,react,vue,spring,html,css,git,github,mysql,oracle" />
   </div>
 
-  ---
-
   ## 🗨️ Discussions & Contributions
 
-<!-- 💬 Discussions -->
-<div align="center" style="margin-top:20px;">
+  <!-- Discussions -->
+  <div align="center">
+    <img src="https://img.shields.io/github/discussions/YONGHYNG/study?label=Active%20Discussions&color=blue&style=for-the-badge" />
+    <img src="https://img.shields.io/github/contributors/YONGHYNG/study?label=Contributors&color=blueviolet&style=for-the-badge" />
+    <img src="https://img.shields.io/github/repo-size/YONGHYNG/study?label=Repo%20Size&color=orange&style=for-the-badge" />
+  </div>
 
-  <!-- Active Discussions -->
-  <img 
-    src="https://img.shields.io/github/discussions/YONGHYNG/study?label=💬%20Active%20Discussions&color=4285F4&style=flat&logo=github&logoColor=white"
-    style="border-radius: 12px; margin: 5px;"
-  />
+  ## ⚙️ Code Ratio (Language Usage)
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YONGHYNG&langs_count=6&layout=donut&theme=tokyonight&hide_border=true" height="300"/>
+  </div>
 
-  <!-- Contributors -->
-  <img 
-    src="https://img.shields.io/github/contributors/YONGHYNG/study?label=🤝%20Contributors&color=8E44AD&style=flat&logo=github&logoColor=white"
-    style="border-radius: 12px; margin: 5px;"
-  />
-
-  <!-- Repository Size -->
-  <img 
-    src="https://img.shields.io/github/repo-size/YONGHYNG/study?label=📦%20Repo%20Size&color=F39C12&style=flat&logo=github&logoColor=white"
-    style="border-radius: 12px; margin: 5px;"
-  />
-
-</div>
-
-  --- 
+  ---
 
   ## 📬 Contact
   <div align="center">
