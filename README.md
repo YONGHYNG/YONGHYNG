@@ -3,6 +3,8 @@
 
   <h1>👋 Hi, I'm <span style="color:#2563EB;">Yonghak Hwang</span></h1>
   <p style="color:#4B5563;">💻 Full-Stack Developer | 📊 Fintech & AI System Explorer</p>
+    <p>🏫 <strong>숭실사이버대학교 리뉴얼</strong> (Backend & Full-Stack) 2023.12.22 ~ 진행중</p>
+    <p>🏢 <strong>비아엘</strong> (Backend & Full-Stack) 2022.11.20 ~ 2023.12.21</p>
 
   <!-- 🧠 Tech Stack -->
   <h2 style="color:#1E40AF;">🧠 Tech Stack</h2>
