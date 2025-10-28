@@ -1,38 +1,29 @@
 <!-- 메인 섹션 -->
-<div align="center">
+<div align="center" style="background:#ffffff; color:#1E3A8A; font-family:'Segoe UI', sans-serif;">
 
-  <h1>👋 Hi, I'm <span style="color:#0A66C2;">Yonghak Hwang</span></h1>
-  <p>💻 Full-Stack Developer | 📊 Fintech & AI System Explorer</p>
+  <h1>👋 Hi, I'm <span style="color:#2563EB;">Yonghak Hwang</span></h1>
+  <p style="color:#4B5563;">💻 Full-Stack Developer | 📊 Fintech & AI System Explorer</p>
 
-  ## 🧠 Tech Stack
-  <div align="center">
-    <!-- 언어 -->
+  <!-- 🧠 Tech Stack -->
+  <h2 style="color:#1E40AF;">🧠 Tech Stack</h2>
+  <div align="center" style="background:#F3F4F6; border-radius:16px; padding:16px; box-shadow:0 4px 10px rgba(0,0,0,0.05); width:fit-content;">
     <img src="https://skillicons.dev/icons?i=java,python,javascript,react,vue,spring,html,css,git,github,mysql,oracle" />
   </div>
 
-  ## 🗨️ Discussions & Contributions
-
-  <!-- Discussions -->
-  <div align="center">
-    <img src="https://img.shields.io/github/discussions/YONGHYNG/study?label=Active%20Discussions&color=blue&style=for-the-badge" />
-    <img src="https://img.shields.io/github/contributors/YONGHYNG/study?label=Contributors&color=blueviolet&style=for-the-badge" />
-    <img src="https://img.shields.io/github/repo-size/YONGHYNG/study?label=Repo%20Size&color=orange&style=for-the-badge" />
+  <!-- ⚙️ Code Ratio -->
+  <h2 style="color:#1E40AF;">⚙️ Code Ratio (Language Usage)</h2>
+  <div align="center" style="background:#F3F4F6; border-radius:20px; padding:20px; box-shadow:0 4px 12px rgba(0,0,0,0.05); width:fit-content;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YONGHYNG&langs_count=6&layout=donut&theme=transparent&hide_border=true&title_color=2563EB&text_color=1E3A8A" height="300"/>
   </div>
 
-  ## ⚙️ Code Ratio (Language Usage)
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YONGHYNG&langs_count=6&layout=donut&theme=tokyonight&hide_border=true" height="300"/>
-  </div>
-
-  ---
-
-  ## 📬 Contact
-  <div align="center">
+  <!-- 📬 Contact -->
+  <h2 style="color:#1E40AF;">📬 Contact</h2>
+  <div align="center" style="margin-top:8px;">
     <a href="mailto:a01025932320@gmail.com">
-      <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mail-4285F4?style=flat-square&logo=gmail&logoColor=white" height="32"/>
     </a>
     <a href="https://github.com/YONGHYNG">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white" height="32"/>
     </a>
   </div>
 
