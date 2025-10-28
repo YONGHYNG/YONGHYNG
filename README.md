@@ -1,6 +1,4 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=120&text=안녕하세요,%20용형입니다!&animation=twinkling&fontColor=000000&fontSize=60" />
-    </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
